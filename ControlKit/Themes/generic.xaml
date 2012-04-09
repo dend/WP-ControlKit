@@ -1,0 +1,40 @@
+﻿<ResourceDictionary
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:vsm="clr-namespace:System.Windows;assembly=System.Windows"
+    xmlns:local="clr-namespace:ControlKit">
+    <Style TargetType="local:TapMenu">
+        <Setter Property="ItemsPanel">
+            <Setter.Value>
+                <ItemsPanelTemplate>
+                    <StackPanel Opacity=".8" Orientation="Horizontal"/>
+                </ItemsPanelTemplate>
+            </Setter.Value>
+        </Setter>
+
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="local:TapMenu">
+                    <ScrollViewer VerticalScrollBarVisibility="Disabled" HorizontalScrollBarVisibility="Hidden"  Height="150">
+                         <ItemsPresenter></ItemsPresenter>
+                    </ScrollViewer>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+    </Style>
+
+    <Style TargetType="local:TapMenuButton">
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="local:TapMenuButton">
+                    <Button Margin="0,0,-15,0" Height="120" Width="120" Background="{StaticResource PhoneAccentBrush}" BorderThickness="0" Padding="0">
+                        <StackPanel>
+                            <Image Margin="0,12,0,12" HorizontalAlignment="Center" Height="36" Width="36" Stretch="UniformToFill" Source="{TemplateBinding ImageSource}"></Image>
+                            <TextBlock Style="{StaticResource PhoneTextSmallStyle}" HorizontalAlignment="Center" Text="{TemplateBinding Text}"></TextBlock>
+                        </StackPanel>
+                    </Button>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+    </Style>
+</ResourceDictionary>

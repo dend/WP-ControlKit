@@ -1,0 +1,15 @@
+C:\Users\Dennis\documents\visual studio 2010\Projects\ControlKitExperimental\ControlKitExperimental\Bin\Debug\ApplicationIcon.png
+C:\Users\Dennis\documents\visual studio 2010\Projects\ControlKitExperimental\ControlKitExperimental\Bin\Debug\Background.png
+C:\Users\Dennis\documents\visual studio 2010\Projects\ControlKitExperimental\ControlKitExperimental\Bin\Debug\ControlKitExperimental.dll
+C:\Users\Dennis\documents\visual studio 2010\Projects\ControlKitExperimental\ControlKitExperimental\Bin\Debug\ControlKitExperimental.pdb
+C:\Users\Dennis\documents\visual studio 2010\Projects\ControlKitExperimental\ControlKitExperimental\Bin\Debug\AppManifest.xaml
+C:\Users\Dennis\documents\visual studio 2010\Projects\ControlKitExperimental\ControlKitExperimental\Bin\Debug\ControlKitExperimental.xap
+C:\Users\Dennis\documents\visual studio 2010\Projects\ControlKitExperimental\ControlKitExperimental\obj\Debug\App.g.i.cs
+C:\Users\Dennis\documents\visual studio 2010\Projects\ControlKitExperimental\ControlKitExperimental\obj\Debug\MainPage.g.i.cs
+C:\Users\Dennis\documents\visual studio 2010\Projects\ControlKitExperimental\ControlKitExperimental\obj\Debug\ControlKitExperimental.g.resources
+C:\Users\Dennis\documents\visual studio 2010\Projects\ControlKitExperimental\ControlKitExperimental\obj\Debug\ControlKitExperimental.dll
+C:\Users\Dennis\documents\visual studio 2010\Projects\ControlKitExperimental\ControlKitExperimental\obj\Debug\ControlKitExperimental.pdb
+C:\Users\Dennis\documents\visual studio 2010\Projects\ControlKitExperimental\ControlKitExperimental\obj\Debug\XapCacheFile.xml
+C:\Users\Dennis\documents\visual studio 2010\Projects\ControlKitExperimental\ControlKitExperimental\Bin\Debug\ControlKit.dll
+C:\Users\Dennis\documents\visual studio 2010\Projects\ControlKitExperimental\ControlKitExperimental\Bin\Debug\ControlKit.pdb
+C:\Users\Dennis\documents\visual studio 2010\Projects\ControlKitExperimental\ControlKitExperimental\obj\Debug\ControlKitExperimental.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\Users\Dennis\documents\visual studio 2010\Projects\ControlKitExperimental\ControlKit\Bin\Debug\ControlKit.dll
+C:\Users\Dennis\documents\visual studio 2010\Projects\ControlKitExperimental\ControlKit\Bin\Debug\ControlKit.pdb
+C:\Users\Dennis\documents\visual studio 2010\Projects\ControlKitExperimental\ControlKit\obj\Debug\ControlKit.g.resources
+C:\Users\Dennis\documents\visual studio 2010\Projects\ControlKitExperimental\ControlKit\obj\Debug\ControlKit.dll
+C:\Users\Dennis\documents\visual studio 2010\Projects\ControlKitExperimental\ControlKit\obj\Debug\ControlKit.pdb
