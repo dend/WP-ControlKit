@@ -1,11 +1,9 @@
-﻿using System.Windows;
-using System.Windows.Controls;
+﻿using System.Windows.Controls;
 
 namespace ControlKit
 {
     public class TapMenu : ItemsControl
     {
-
         public TapMenu()
         {
             DefaultStyleKey = typeof(TapMenu);

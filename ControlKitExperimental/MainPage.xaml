@@ -23,21 +23,13 @@
 
         <!--TitlePanel contains the name of the application and page title-->
         <StackPanel x:Name="TitlePanel" Grid.Row="0" Margin="12,17,0,28">
-            <ckit:TapMenu>
-                <ckit:TapMenuButton ImageSource="ApplicationIcon.png" Text="Test"></ckit:TapMenuButton>
-                <ckit:TapMenuButton ImageSource="ApplicationIcon.png" Text="Test"></ckit:TapMenuButton>
-                <ckit:TapMenuButton ImageSource="ApplicationIcon.png" Text="Test"></ckit:TapMenuButton>
-                <ckit:TapMenuButton ImageSource="ApplicationIcon.png" Text="Test"></ckit:TapMenuButton>
-                <ckit:TapMenuButton ImageSource="ApplicationIcon.png" Text="Test"></ckit:TapMenuButton>
-                <ckit:TapMenuButton ImageSource="ApplicationIcon.png" Text="Test"></ckit:TapMenuButton>
-                <ckit:TapMenuButton ImageSource="ApplicationIcon.png" Text="Test"></ckit:TapMenuButton>
-                <ckit:TapMenuButton ImageSource="ApplicationIcon.png" Text="Test"></ckit:TapMenuButton>
-                <ckit:TapMenuButton ImageSource="ApplicationIcon.png" Text="Test"></ckit:TapMenuButton>
-            </ckit:TapMenu>
+            <ckit:ZuneCard UserID="ZeBond"></ckit:ZuneCard>
+
+            <ckit:ZuneCard UserID="fre4k4z01d"></ckit:ZuneCard>
         </StackPanel>
 
         <!--ContentPanel - place additional content here-->
-        <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
+        <!--<Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
             <ListBox ItemsSource="{Binding Path=Instance.RandomTextItems,Source={StaticResource Binder}}">
                 <ListBox.ItemTemplate>
                     <DataTemplate>
@@ -63,6 +55,6 @@
                     </DataTemplate>
                 </ListBox.ItemTemplate>
             </ListBox>
-        </Grid>
+        </Grid>-->
     </Grid>
 </phone:PhoneApplicationPage>

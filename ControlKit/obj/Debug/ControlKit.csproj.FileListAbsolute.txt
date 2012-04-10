@@ -3,3 +3,7 @@ C:\Users\Dennis\documents\visual studio 2010\Projects\ControlKitExperimental\Con
 C:\Users\Dennis\documents\visual studio 2010\Projects\ControlKitExperimental\ControlKit\obj\Debug\ControlKit.g.resources
 C:\Users\Dennis\documents\visual studio 2010\Projects\ControlKitExperimental\ControlKit\obj\Debug\ControlKit.dll
 C:\Users\Dennis\documents\visual studio 2010\Projects\ControlKitExperimental\ControlKit\obj\Debug\ControlKit.pdb
+C:\Users\Dennis\documents\visual studio 2010\Projects\ControlKitExperimental\ControlKit\Bin\Debug\Graphics\64x64_tile.jpg
+C:\Users\Dennis\documents\visual studio 2010\Projects\ControlKitExperimental\ControlKit\Bin\Debug\Graphics\default_bg.png
+C:\Users\Dennis\documents\visual studio 2010\Projects\ControlKitExperimental\ControlKit\Bin\Debug\Graphics\side.png
+C:\Users\Dennis\documents\visual studio 2010\Projects\ControlKitExperimental\ControlKit\Bin\Debug\Graphics\badge.png
